@@ -1,0 +1,1 @@
+Para compilar habilite o c++11. Foi utilizado a função stoi e stod para conversão de valores.
